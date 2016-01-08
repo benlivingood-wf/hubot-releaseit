@@ -1,16 +1,16 @@
 {
-  "name": "hubot-shipit",
-  "description": "A hubot script that provides easy access to the shipit squirrel and its kin",
-  "version": "0.2.0",
-  "author": "Josh Nichols <technicalpickles@github.com>",
+  "name": "hubot-releaseit",
+  "description": "A hubot script that provides squids",
+  "version": "0.1.0",
+  "author": "ben.livingood@workiva.com",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-shipit.git"
+    "url": "git://github.com/benlivingood-wf/hubot-releaseit.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-shipit/issues"
+    "url": "https://github.com/benlivingood-wf/hubot-releaseit/issues"
   },
   "dependencies": {},
   "peerDependencies": {
