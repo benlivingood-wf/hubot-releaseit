@@ -22,6 +22,9 @@ squids = [
   "https://s-media-cache-ak0.pinimg.com/736x/c9/28/d9/c928d9c0b11c3672f3c6516e49733d33.jpg",
   "http://i.imgur.com/8wZbcJ3.png",
   "http://i.imgur.com/mJJQr8e.png",
+  "http://c1.staticflickr.com/5/4110/5070875349_042c29ac3a_n.jpg",
+  "https://c1.staticflickr.com/1/103/257862931_c9657c9068_m.jpg",
+  "https://i.vimeocdn.com/portrait/3289202_300x300.jpg",
 ]
 
 module.exports = (robot) ->
